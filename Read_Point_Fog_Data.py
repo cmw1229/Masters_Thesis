@@ -1,5 +1,5 @@
 #Chrissy Rogers
-# Reads csv file with point fog data created in GIS
+# Reads csv file with point fog data created in ESRI ArcGIS
 #---------------------------------------------------------------------
 
 #Import Libraries
